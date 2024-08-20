@@ -13,6 +13,8 @@ You might not have been sure that you would make it to this point, but you
 have. Right now you should have the information needed to create a basic web
 application!
 
+
+
 Your goal is to implement the "liking" functionality of "Simple Liker." As a
 reminder, the final product should look something like this:
 
